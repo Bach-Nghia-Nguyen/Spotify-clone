@@ -69,8 +69,7 @@ a:hover {
 
 #section1 {
   padding-top: 80px;
-  /* background-color: #ff4632; */
-  background-color: #261ba8;
+  background: linear-gradient(#261ba8 97%, #f8c93a);
   min-height: 70vh;
 }
 
@@ -135,10 +134,9 @@ a:hover {
 */
 
 #section2 {
-  /* background-color: #f1948a; */
+  background: linear-gradient(#261ba8 5%, #f8c93a);
   background: url(images/headphone.jpeg);
   background-size: auto;
-  /* opacity: 0.5; */
   padding: 120px 0;
   min-height: 606px;
 }
